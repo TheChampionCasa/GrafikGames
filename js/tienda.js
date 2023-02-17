@@ -1,4 +1,4 @@
-let fichero = new URL("http://localhost:3000/juegos")
+let fichero = new URL("https://my-json-server.typicode.com/Pcb1230/GrafikGames/juegos")
 
 function busqueda(){
   let nombre = document.getElementById("buscar").value;

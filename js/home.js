@@ -1,5 +1,5 @@
-let fichero = new URL("http://localhost:3000/specs")
-let fichero2 = new URL("http://localhost:3000/foro")
+let fichero = new URL("https://my-json-server.typicode.com/Pcb1230/GrafikGames/specs")
+let fichero2 = new URL("https://my-json-server.typicode.com/Pcb1230/GrafikGames/foro")
 function specs(){
   let ul = document.getElementById("lista");
   let nombre = document.getElementById("nombreSpecs").value;
