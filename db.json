@@ -88,40 +88,30 @@
       "id": 1,
       "imagen": "imgs/mw2card.jpg",
       "titulo": "Modern Warfare II",
-      "descripcion": "En Call of Duty®: Modern Warfare® II, los jugadores se verán inmersos en un conflicto a escala global sin precedentes que incluye el regreso de Operadores icónicos de la fuerza operativa 141.",
-      "precio": "70€",
       "link":"Productos/Modern_Warfare_II.html"
     },
     {
       "id": 2,
       "imagen": "imgs/rdr2card.jpg",
       "titulo": "Red Dead Redemption II",
-      "descripcion": "Red Dead Redemption 2 es la épica historia de Arthur Morgan y la banda de Van der Linde, que huyen por toda América en el albor de una nueva era. También incluye acceso al mundo multijugador",
-      "precio": "20€",
       "link":"Productos/Red_Dead_Redemption_II.html"
     },
     {
       "id": 3,
       "imagen": "imgs/nfscard.jpg",
       "titulo": "Need For Speed: Unbound",
-      "descripcion": "Corre hasta lo más alto, sin llevarte chascos. Supera a la policía y participa en las eliminatorias semanales del Grand, la carrera callejera definitiva. Llena tu garaje de coches personalizados",
-      "precio": "70€",
       "link":"Productos/Need_For_Speed_Unbound.html"
     },
     {
       "id": 4,
       "imagen": "imgs/hpcard.jpg",
       "titulo": "Hogwarts Legacy",
-      "descripcion": "Hogwarts Legacy es un juego de rol inmersivo en mundo abierto que se inspira de los libros de la saga Harry Potter. Disfruta del Hogwarts del siglo XIX. Tu personaje es un alumno del famoso colegio que tiene la clave de un secreto que amenaza con destruir el mundo mágico.",
-      "precio": "60€",
       "link":"Productos/Hogwarts_Legacy.html"
     },
     {
       "id": 5,
       "imagen": "imgs/ahcard.jpg",
       "titulo": "Atomic Heart",
-      "descripcion": "Ten encuentros explosivos en un delirante y sublime mundo utópico. Adapta tu estilo de combate a cada rival, aprovecha el entorno y mejora el equipamiento para cumplir la misión. El precio de averiguar la verdad tendrás que pagarlo con sangre.",
-      "precio": "60€",
       "link":"Productos/Atomic_Heart.html"
     }
     ,
@@ -129,8 +119,6 @@
       "id": 6,
       "imagen": "imgs/wdcard.jpg",
       "titulo": "Wanted Dead",
-      "descripcion": "Wanted: Dead es un nuevo híbrido slasher/shooter de los creadores de Ninja Gaiden y Dead or Alive. El juego sigue una semana en la vida de la Unidad Zombie, un escuadrón de policía de élite de Hong Kong en una misión para descubrir una gran conspiración corporativa.",
-      "precio": "60€",
       "link":"Productos/Wanted_Dead.html"
     }
   ],
