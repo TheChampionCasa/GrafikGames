@@ -115,6 +115,23 @@
       "descripcion": "Hogwarts Legacy es un juego de rol inmersivo en mundo abierto que se inspira de los libros de la saga Harry Potter. Disfruta del Hogwarts del siglo XIX. Tu personaje es un alumno del famoso colegio que tiene la clave de un secreto que amenaza con destruir el mundo mágico.",
       "precio": "60€",
       "link":"Productos/Hogwarts_Legacy.html"
+    },
+    {
+      "id": 5,
+      "imagen": "imgs/ahcard.jpg",
+      "titulo": "Atomic Heart",
+      "descripcion": "Ten encuentros explosivos en un delirante y sublime mundo utópico. Adapta tu estilo de combate a cada rival, aprovecha el entorno y mejora el equipamiento para cumplir la misión. El precio de averiguar la verdad tendrás que pagarlo con sangre.",
+      "precio": "60€",
+      "link":"Productos/Atomic_Heart.html"
+    }
+    ,
+    {
+      "id": 6,
+      "imagen": "imgs/wdcard.jpg",
+      "titulo": "Wanted Dead",
+      "descripcion": "Wanted: Dead es un nuevo híbrido slasher/shooter de los creadores de Ninja Gaiden y Dead or Alive. El juego sigue una semana en la vida de la Unidad Zombie, un escuadrón de policía de élite de Hong Kong en una misión para descubrir una gran conspiración corporativa.",
+      "precio": "60€",
+      "link":"Productos/Wanted_Dead.html"
     }
   ],
   "foro": [
