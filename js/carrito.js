@@ -102,9 +102,14 @@ function addedToCart(pname) {
   var message = pname + " se añadió al carrito";
   var alerts = document.getElementById("alerts");
   alerts.innerHTML = message;
+  alerts.className="text-center mt-5"
   if(!alerts.classList.contains("message")){
      alerts.classList.add("message");
   }
+  setTimeout(function(){
+    alerts.className="text-center"
+    alerts.innerHTML = "";
+ }, 4000);
 }
 /* User Manually empty cart */
 function emptyCart() {

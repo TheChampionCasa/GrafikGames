@@ -9,7 +9,6 @@ function comprobarcorreo(){
         document.getElementById("textocorreo").innerHTML="";
     }else{
         document.getElementById("textocorreo").style.display="block";
-        document.getElementById("textocorreo").style.width="70%";
         document.getElementById("textocorreo").innerHTML="El correo no es valido";
     }
 }
@@ -25,33 +24,14 @@ function comprobarcontraseña(){
                 document.getElementById("textoContraseña").style.display="none";
             }else{
                 document.getElementById("textoContraseña").style.display="block";
-                document.getElementById("textoContraseña").style.width="70%";
-                document.getElementById("textoContraseña").innerHTML="La contraseña tiene que tener una longitud de 8 caracteres,1 numero y 1 letra";
+                document.getElementById("textoContraseña").innerHTML="La contraseña tiene que tener una longitud de 8 a 12 caracteres,1 numero y 1 letra";
             }
     }else{
         document.getElementById("contraseñacoincide").style.display="block";
-        document.getElementById("contraseñacoincide").style.width="70%";
         document.getElementById("contraseñacoincide").innerHTML="Las contraseñas no coinciden";
     }
 
 }
-
-function mostrarContraseña(){
-    var mostrarContraseña, mostrarRepetirContraseña;
-    mostrarContraseña=document.getElementById("contraseña");
-    mostrarRepetirContraseña=document.getElementById("contraseña2");
-
-    if(mostrarContraseña.type==="password" && mostrarRepetirContraseña.type==="password"){
-        mostrarContraseña.type="text";
-        mostrarRepetirContraseña.type="text";
-    }else{
-        mostrarContraseña.type="password";
-        mostrarRepetirContraseña.type="password";
-    }
-
-}
-
-formulario.addEventListener('submit', (e)=> {e.preventDefault()})
 
 
 /*function comprobartarjeta(){
