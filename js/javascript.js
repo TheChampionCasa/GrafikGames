@@ -1,6 +1,3 @@
-var formulario;
-formulario=document.getElementById("formulario");
-
 function comprobarcorreo(){
     var correo;
     correo=document.getElementById("email").value;
@@ -16,7 +13,7 @@ function comprobarcontraseña(){
     var contraseña,confirmarContraseña;
     contraseña=document.getElementById("contraseña").value;
     confirmarContraseña=document.getElementById("contraseña2").value;
-    if(contraseña==confirmarContraseña){
+    if(contraseña===confirmarContraseña){
         document.getElementById("contraseñacoincide").innerHTML="";
         document.getElementById("contraseñacoincide").style.display="none";
             if(/^(?=[A-Za-z]+[0-9]|[0-9]+[A-Za-z])[A-Za-z0-9]{8,12}$/gm.test(contraseña) ){
@@ -34,13 +31,14 @@ function comprobarcontraseña(){
 }
 
 
-/*function comprobartarjeta(){
-    var direccion,pais;
+function comprobarTarjeta(){
+    let direccion,pais;
     direccion=document.getElementById("direccion").value;
-    pais=document.getElementById("paises").value;
-        if(direccion!="" && pais!="predeterminado"){
-        document.getElementById("tarjeta").style.display='block';
-        }else{
-            document.getElementById("tarjeta").style.display='none';
-        }
-}*/
+    pais=document.getElementById("pais").value;
+    if(direccion!=="" && pais!==""){
+        document.getElementById("tarjeta").style.display="flex";
+    }else{
+        document.getElementById("tarjeta").style.display="none";
+    }
+}
+
