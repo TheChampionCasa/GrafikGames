@@ -88,38 +88,43 @@
       "id": 1,
       "imagen": "imgs/mw2card.jpg",
       "titulo": "Modern Warfare II",
-      "link":"Productos/Modern_Warfare_II.php"
+      "descripcion": "En Call of Duty®: Modern Warfare® II, los jugadores se verán inmersos en un conflicto a escala global sin precedentes que incluye el regreso de Operadores icónicos de la fuerza operativa 141.",
+      "acerca": "Quienes tengan la Edición estándar digital de Call of Duty®: Modern Warfare® II pueden actualizar a la Edición de archivo, como parte de una oferta por tiempo limitado. Te damos la bienvenida a la nueva era de Call of Duty®. En Call of Duty®: Modern Warfare® II, los jugadores se verán inmersos en un conflicto a escala global sin precedentes que incluye el regreso de Operadores icónicos de la fuerza operativa 141. Desde operaciones tácticas de infiltración a pequeña escala hasta misiones altamente secretas, los jugadores se desplegarán con amigos en una experiencia inmersiva. Infinity Ward ofrece a los fans una experiencia puntera con un manejo nuevo, un sistema de IA avanzado, un armero nuevo y una retahíla de innovaciones gráficas y de jugabilidad que elevarán la franquicia a otro nivel. Modern Warfare® II cuenta con una campaña mundial de un jugador, un combate Multijugador envolvente y un modo de juego evolucionado de Operaciones Especiales tácticas y cooperativas. También obtienes acceso la nueva experiencia Battle Royale de Call of Duty®: Warzone™ 2.0."
     },
     {
       "id": 2,
       "imagen": "imgs/rdr2card.jpg",
       "titulo": "Red Dead Redemption II",
-      "link":"Productos/Red_Dead_Redemption_II.php"
+      "descripcion": "Con más de 175 premios al Juego del año y más de 250 valoraciones perfectas, Red Dead Redemption 2 es la épica historia de Arthur Morgan y la banda de Van der Linde, que huyen por toda América en el albor de una nueva era. También incluye acceso al mundo multijugador compartido de Red Dead Online.",
+      "acerca": "América, 1899. Arthur Morgan y la banda de Van der Linde son forajidos en busca y captura. Mientras los agentes federales y los mejores cazarrecompensas de la nación les pisan los talones, la banda deberá abrirse camino por el abrupto territorio del corazón de América y sobrevivir a base de robos y peleas. Arthur deberá elegir entre sus propios ideales y la lealtad a la banda que lo vio crecer. Con contenido adicional para el Modo Historia y un completo modo Foto, Red Dead Redemption 2 también incluye acceso gratuito al mundo multijugador compartido de Red Dead Online, en el que los jugadores asumen diversos roles para ganarse la vida a su manera en la frontera mientras persiguen a fugitivos buscados como cazarrecompensas, crean un negocio como comerciantes, descubren exóticos tesoros como coleccionistas, dirigen una destilería ilegal como licoristas y muchas cosas más. Gracias a las nuevas mejoras gráficas y técnicas que permiten una mayor inmersión en el juego, Red Dead Redemption 2 para PC aprovecha al máximo la potencia de los equipos para conseguir que todos y cada uno de los aspectos de este gigantesco mundo lleno de detalles cobren vida. Incluye mayores distancias de dibujado; iluminación global y oclusión ambiental de mayor calidad, para mejorar la luz tanto de día como de noche; reflejos mejorados y sombras más profundas y de mayor resolución a todas las distancias; texturas de árboles teseladas y texturas de hierba y pelaje mejoradas para aumentar el realismo de las plantas y animales.Red Dead Redemption 2 para PC también ofrece compatibilidad con HDR, la posibilidad de utilizar pantallas de alta gama (con resoluciones 4K y superiores), configuraciones con varios monitores, con pantalla panorámica, mayores tasas de fotogramas, etc."
     },
     {
       "id": 3,
       "imagen": "imgs/nfscard.jpg",
       "titulo": "Need For Speed: Unbound",
-      "link":"Productos/Need_For_Speed_Unbound.php"
+      "descripcion":"Corre hasta lo más alto, sin llevarte chascos. Supera a la policía y participa en las eliminatorias semanales del Grand, la carrera callejera definitiva. Llena tu garaje de coches personalizados y tuneados con precisión e inunda las calles con tu estilo.",
+      "acerca":"El mundo es tu lienzo en Need for Speed™ Unbound. Demuestra que tienes lo que hay que tener para ganar el Grand, el desafío de carreras callejeras definitivo de Lakeshore. A lo largo de 4 semanas de carreras intensas, gana el dinero suficiente para participar en las eliminatorias semanales, supera a tus rivales y deja huella en el mundillo de las carreras callejeras mientras le das un repaso a la policía. Llena tu garaje de coches personalizados y tuneados con precisión e inunda las calles con tu estilo único, atuendos exclusivos y una potente banda sonora mundial que resonará en todas partes gracias a A$AP Rocky y AWGE. Exprésate al máximo con las últimas corrientes artísticas y los grafitis característicos que muestran de qué rollo vas. Con campañas individuales y multijugador separadas, esta última edición de la franquicia de Need for Speed de Criterion Games™ ofrece horas y horas de acción llenas de adrenalina."
     },
     {
       "id": 4,
       "imagen": "imgs/hpcard.jpg",
       "titulo": "Hogwarts Legacy",
-      "link":"Productos/Hogwarts_Legacy.php"
+      "descripcion":"Hogwarts Legacy es un RPG inmersivo de acción en mundo abierto. Ahora puedes tomar el control de la acción y ser el centro de tu propia aventura en el mundo mágico.",
+      "acerca":"Hogwarts Legacy es un RPG de acción en un mundo abierto ambientado en el universo de los libros de Harry Potter. Embárcate en un viaje que te llevará a lugares nuevos y ya conocidos, y en el que podrás descubrir animales fantásticos, personalizar a tu personaje, elaborar pociones, dominar hechizos, mejorar tus habilidades y convertirte en la bruja o el mago que quieras ser. Disfruta de Hogwarts en el siglo XIX. Tu personaje es un estudiante que tiene la clave de un antiguo secreto que amenaza la estabilidad del mundo mágico. Consigue aliados, enfréntate a magos tenebrosos y decide el destino del mundo mágico. Tú defines tu legado. Escribe tu propia historia."
     },
     {
       "id": 5,
       "imagen": "imgs/ahcard.jpg",
       "titulo": "Atomic Heart",
-      "link":"Productos/Atomic_Heart.php"
+      "descripcion":"Ten encuentros explosivos en un delirante y sublime mundo utópico. Adapta tu estilo de combate a cada rival, aprovecha el entorno y mejora el equipamiento para cumplir la misión. El precio de averiguar la verdad tendrás que pagarlo con sangre.",
+      "acerca":"Te damos la bienvenida a un mundo utópico, maravilloso y perfecto, en el que los humanos viven en armonía con leales y complacientes robots.<br> Bueno, al menos, hasta ahora. Apenas quedan unos días para el lanzamiento del más moderno sistema de control de robots y solo un trágico accidente o una conspiración mundial podrían impedirlo...<br><br> El imparable avance de la tecnología y el desarrollo de experimentos secretos han dado lugar a criaturas mutantes, máquinas aterradoras y robots  superpoderosos que, de repente, se han rebelado contra sus creadores. Solo tú puedes detenerlos y averiguar qué hay más allá de este mundo ideal.<br><br> Emplea las habilidades de combate que te otorgan tu guante eléctrico experimental y tu arsenal de armas de filo y de fuego avanzadas para luchar a  vida o muerte en encuentros explosivos y frenéticos. Adapta tu estilo de combate a cada rival, combina habilidades y recursos, aprovecha el entorno y mejora el equipamiento para superar retos y luchar por el bien."
     }
     ,
     {
       "id": 6,
       "imagen": "imgs/wdcard.jpg",
-      "titulo": "Wanted Dead",
-      "link":"Productos/Wanted_Dead.php"
+      "descripcion":"Wanted: Dead es un nuevo híbrido slasher/shooter de los creadores de Ninja Gaiden y Dead or Alive. El juego sigue una semana en la vida de la Unidad Zombie, un escuadrón de policía de élite de Hong Kong en una misión para descubrir una gran conspiración corporativa.",
+      "acerca":"Se busca: Dead es un nuevo híbrido slasher/shooter de los creadores de Ninja Gaiden y Dead or Alive. El juego sigue una semana en la vida de la Unidad Zombie, un escuadrón de élite de la policía de Hong Kong con la misión de descubrir una importante conspiración corporativa. Ponte en la piel de la teniente Hannah Stone, una policía de Hong Kong de perfil duro, y atraviesa mercenarios, pandilleros y contratistas militares privados en una espectacular aventura ciberpunk. Características principales: Combate cuerpo a cuerpo: Utiliza una gran variedad de movimientos mortales y docenas de remates únicos para rebanar y cortar. Juego de disparos en tercera persona: Lucha en interiores y exteriores con una selección de armas de proyectiles: rifles de asalto, SMGs, LMGs y lanzagranadas. Brutales remates: más de 50 movimientos finales únicos Ciberpunk: una loca mezcla de armamento avanzado y futurismo retro de los 90 Una historia apasionante: La unidad Zombie descubre una gran conspiración corporativa en una versión distópica de Hong Kong Experiencia realmente dura: los combates no van a ser fáciles, endurece tu determinación y utiliza todo lo que te rodea mientras luchas contra hordas de mercenarios, sintéticos y fuerzas de seguridad privadas. Golpéalos al estilo de la vieja escuela: Derriba a los enemigos para avanzar, revive la nostalgia en un giro moderno del género establecido Una carta de amor a la sexta generación de consolas."
     }
   ],
   "foro": [
