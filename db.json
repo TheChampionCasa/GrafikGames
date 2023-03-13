@@ -83,6 +83,45 @@
       ]
     }
   ],
+  "juegos": [
+    {
+      "id": 1,
+      "imagen": "imgs/mw2card.jpg",
+      "titulo": "Modern Warfare II",
+      "link":"Productos/Modern_Warfare_II.php"
+    },
+    {
+      "id": 2,
+      "imagen": "imgs/rdr2card.jpg",
+      "titulo": "Red Dead Redemption II",
+      "link":"Productos/Red_Dead_Redemption_II.php"
+    },
+    {
+      "id": 3,
+      "imagen": "imgs/nfscard.jpg",
+      "titulo": "Need For Speed: Unbound",
+      "link":"Productos/Need_For_Speed_Unbound.php"
+    },
+    {
+      "id": 4,
+      "imagen": "imgs/hpcard.jpg",
+      "titulo": "Hogwarts Legacy",
+      "link":"Productos/Hogwarts_Legacy.php"
+    },
+    {
+      "id": 5,
+      "imagen": "imgs/ahcard.jpg",
+      "titulo": "Atomic Heart",
+      "link":"Productos/Atomic_Heart.php"
+    }
+    ,
+    {
+      "id": 6,
+      "imagen": "imgs/wdcard.jpg",
+      "titulo": "Wanted Dead",
+      "link":"Productos/Wanted_Dead.php"
+    }
+  ],
   "foro": [
     {
       "id": 1,
